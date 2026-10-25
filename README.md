@@ -76,7 +76,7 @@ The second dashboard page focuses on sales over time and geographic comparison.
 
 ### Sales Trends and State Analysis
 
-![Sales Trends and State Analysis](ChatGPT Image Oct 25, 2026, 05_05_32 PM.png)
+![Sales Trends and State Analysis](image2.png)
 
 ## 📁 Repository Structure
 
