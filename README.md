@@ -72,11 +72,11 @@ The second dashboard page focuses on sales over time and geographic comparison.
 
 ### Sales Overview
 
-![Super Store Sales Dashboard](Screenshots/Super_Store_Sales_Dashboard.png)
+![Super Store Sales Dashboard](image.png)
 
 ### Sales Trends and State Analysis
 
-![Sales Trends and State Analysis](Screenshots/Sales_Trends_and_State_Analysis.png)
+![Sales Trends and State Analysis](ChatGPT Image Oct 25, 2026, 05_05_32 PM.png)
 
 ## 📁 Repository Structure
 
